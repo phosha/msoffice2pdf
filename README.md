@@ -1,5 +1,8 @@
 # msoffice2pdf
 
+# Форк для изменения кодировки строки
+
+
 [![Python](https://badgen.net/badge/language/python/orange?icon=python)]()
 [![Flask](https://badgen.net/badge/type/library/red?icon=)]()
 
